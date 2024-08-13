@@ -28,3 +28,5 @@ export default function Page() {
     </main>
   );
 }
+
+export const experimental_ppr = true;
